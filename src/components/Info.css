@@ -1,0 +1,25 @@
+img {
+  width: 317px;
+  display: block;
+  margin: auto;
+  padding-top: 44px;
+}
+
+.full-name,
+.title {
+  text-align: center;
+}
+
+.full-name {
+  color: #fff;
+  margin-top: 21px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.title {
+  margin-top: 6px;
+  color: #f3bf99;
+}
