@@ -8,7 +8,9 @@ function App() {
   return (
     <div className="App">
       <Info />
-      <img src="../images/profile-pic.png" />
+      <About />
+      <Interests />
+      <Footer />
     </div>
   );
 }
